@@ -1,7 +1,7 @@
 Create an intellij project in this folder that does what the comments say below:
 comments are any line that the computer will ignore when running your code and are
 marked by // or /* */
-Examples:  
+Examples:   
 // this is a single line comment
 /*  
 comments 
