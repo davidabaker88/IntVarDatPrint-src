@@ -24,8 +24,7 @@ here,  all lines between slash* and *slash are ignored by the compilier.
 //set var1 to be the number 12
 //increase the value of var1 by 7.
 //print the value of var1
-//subtract var1 from the result of multipling var1 and var2 together and 
-put the result in var5
+//subtract var1 from the result of multipling var1 and var2 together and  put the result in var5
 //print the value of var5
 //create a new variable named var3 and initialize it to 8
 //add var3 var1 and var2 together and put it into var5
@@ -37,7 +36,6 @@ put the result in var5
 //print the value of var3
 //multiply var5 by var3 and put it into var5
 //print the value of var5
-//using only the variable var5 and the addition operator, double the value 
-of var5.
+//using only the variable var5 and the addition operator, double the value  of var5.
 //update var5 to be 1/3rd of its current value.
 //print the value of var5
